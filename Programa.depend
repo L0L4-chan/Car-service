@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1641906325 source:c:\users\santiago\desktop\programa\tad1vehiculo.cpp
+	<math.h>
+	<string.h>
+	"Tad1Vehiculo.h"
+
+1641811435 c:\users\santiago\desktop\programa\tad1vehiculo.h
+
+1641811125 source:c:\users\santiago\desktop\programa\tad2cliente.cpp
+	"Tad1Vehiculo.h"
+	"Tad2cliente.h"
+
+1641898624 c:\users\santiago\desktop\programa\tad2cliente.h
+
+1642067965 source:c:\users\santiago\desktop\programa\cal.cpp
+	<stdio.h>
+	"Tad2cliente.h"
+	"cal.h"
+
+1642007600 c:\users\santiago\desktop\programa\cal.h
+
+1641908785 source:c:\users\santiago\desktop\programa\mainvehiculoscompartidos.cpp
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"Tad1Vehiculo.h"
+	"Tad2cliente.h"
+	"cal.h"
+
+1642172839 source:c:\users\absol\desktop\proyecto4\tad1vehiculo.cpp
+	<math.h>
+	<string.h>
+	"Tad1Vehiculo.h"
+
+1642163355 c:\users\absol\desktop\proyecto4\tad1vehiculo.h
+
+1642172628 source:c:\users\absol\desktop\proyecto4\tad2cliente.cpp
+	"Tad1Vehiculo.h"
+	"Tad2cliente.h"
+
+1642172455 c:\users\absol\desktop\proyecto4\tad2cliente.h
+
+1642162892 source:c:\users\absol\desktop\proyecto4\cal.cpp
+	<stdio.h>
+	"Tad2cliente.h"
+	"cal.h"
+
+1642085677 c:\users\absol\desktop\proyecto4\cal.h
+
+1642172331 source:c:\users\absol\desktop\proyecto4\mainvehiculoscompartidos.cpp
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"Tad1Vehiculo.h"
+	"Tad2cliente.h"
+	"cal.h"
+
+1642180684 source:c:\users\santiago\desktop\version 14.01 d\tad2cliente.cpp
+	"Tad1Vehiculo.h"
+	"Tad2cliente.h"
+
+1642182102 c:\users\santiago\desktop\version 14.01 d\tad1vehiculo.h
+
+1642180709 c:\users\santiago\desktop\version 14.01 d\tad2cliente.h
+
+1642179315 source:c:\users\santiago\desktop\version 14.01 d\tad1vehiculo.cpp
+	<math.h>
+	<string.h>
+	"Tad1Vehiculo.h"
+
+1642180513 source:c:\users\santiago\desktop\version 14.01 d\mainvehiculoscompartidos.cpp
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"Tad1Vehiculo.h"
+	"Tad2cliente.h"
+	"cal.h"
+
+1642174172 c:\users\santiago\desktop\version 14.01 d\cal.h
+
+1642179211 source:c:\users\santiago\desktop\version 14.01 d\cal.cpp
+	<stdio.h>
+	"Tad2cliente.h"
+	"cal.h"
+
